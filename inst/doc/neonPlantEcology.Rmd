@@ -1,8 +1,8 @@
 ---
-title: "using neonPlantEcology"
+title: "Using neonPlantEcology"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{using_npe}
+  %\VignetteIndexEntry{neonPlantEcology}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
