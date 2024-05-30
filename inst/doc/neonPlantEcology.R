@@ -100,7 +100,7 @@ dl <- di|>
 
 p3<- ggplot(dl, aes(x = shannon, y = site, fill = origin)) +
   geom_bar(stat = 'identity', color = "black", lwd = .2) +
-  xlab("Shannon-Weaver Diveristy")
+  xlab("Shannon-Weiner Diveristy")
 
 
 ## ----multipanel---------------------------------------------------------------
